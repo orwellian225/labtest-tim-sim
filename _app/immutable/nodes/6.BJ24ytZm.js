@@ -1,0 +1,1 @@
+import{t as e,a as o}from"../chunks/lqPd9uE7.js";import"../chunks/DDsbmpoH.js";var r=e('<article class="space-y-4"><h1 class="text-3xl">Other Tools</h1></article>');function c(a){var t=r();o(a,t)}export{c as component};
